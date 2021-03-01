@@ -1,4 +1,5 @@
-// D:\app\tester_test_1>flutter drive --driver=test\app_driver.dart --target=test\app_test.dart
+// flutter drive --driver=test/app_driver.dart --target=test/app_test.dart
+
 import 'package:flutter_driver/flutter_driver.dart';
 import 'package:test/test.dart';
 
